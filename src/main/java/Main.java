@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Double price;
         String name;
+
         ArrayList<Dish> dishesList = new ArrayList<>();
 
         int personCount = getPersonCount();
