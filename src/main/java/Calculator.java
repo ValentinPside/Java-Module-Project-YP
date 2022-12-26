@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 
 public class Calculator {
+
     public Calculator(int personCount, ArrayList<Dish> dishesList) {
         calculate(personCount, dishesList);
     }
