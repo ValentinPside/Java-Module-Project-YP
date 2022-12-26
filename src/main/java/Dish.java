@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Dish {
+
     private Double price;
     private String name;
 
